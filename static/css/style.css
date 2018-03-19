@@ -1,0 +1,14 @@
+.information{
+  display: inline;
+}
+.information h5{
+    float: right;
+    color: green;
+}
+.information h1, .information h5{
+  display: inline;
+}
+#chat p {
+  margin-bottom:0px;
+  line-height: 15px;
+}
