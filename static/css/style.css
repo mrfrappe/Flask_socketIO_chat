@@ -2,8 +2,12 @@
   display: inline;
 }
 .information h5{
-    float: right;
-    color: green;
+  margin-top:10px;
+  margin-right: 20px;
+  float: right;
+}
+#info {
+    color: red;
 }
 .information h1, .information h5{
   display: inline;
@@ -11,4 +15,9 @@
 #chat p {
   margin-bottom:0px;
   line-height: 15px;
+}
+#newConnect {
+  display: inline;
+  float: right;
+  margin-top: 10px;
 }
